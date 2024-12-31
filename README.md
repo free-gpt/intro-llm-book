@@ -4,7 +4,7 @@
 
 ## 在线查看
 
-[https://yigmmk.github.io/intro-llm-book/](https://yigmmk.github.io/intro-llm-book/)
+[gitbook](https://free-gpt-1.gitbook.io/llm-cong-li-lun-dao-shi-jian/da-gui-mo-yu-yan-mo-xing-cong-li-lun-dao-shi-jian-1)
 
 ## 感谢
 
